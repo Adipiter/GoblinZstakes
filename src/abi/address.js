@@ -1,0 +1,2 @@
+export const nft = "0xE52B8CEB1B40E90c41f778DAb070aF2A793CdD8e"
+export const stake = "0x4ad2dA71424387A32FcFfcFc474cE38d11C5F810"
